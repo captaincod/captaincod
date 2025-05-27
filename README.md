@@ -1,16 +1,16 @@
-## Hi there 👋
+![header pic](header.png)
 
-<!--
-**captaincod/captaincod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Привет 👋
 
-Here are some ideas to get you started:
+- 🐍 Я **Python-разработчик**, создаю проекты на этом языке в общей сложности 6+ лет, из которых 2.5 года трудового стажа
+- 👩‍💼 Моё **резюме** можно посмотреть на hh.ru [по этой ссылке](https://irkutsk.hh.ru/resume/c001ec07ff0ea0e3d20039ed1f647179733158)
+- В основном занималась back-ом, стараюсь развиваться и в front
+- Сейчас занимаюсь pet-проектами используя/изучая Django, Docker, PostreSQL, FastAPI
+- В профессиональной сфере также интересуюсь Golang-ом
+- Полюбила Android (Kotlin) после курсов IT Академии Samsung, есть несколько учебных проектов
+- Сделала пару игрушек на Lua 😄
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мои контакты:  
+- Почта: iod5000@gmail.com
+- Telegram: [@capcod](https://t.me/capcod)
